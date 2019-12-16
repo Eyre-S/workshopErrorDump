@@ -1,0 +1,22 @@
+#dock {
+	background-image: url("/assets/speech.jpg");
+	background-size:cover;
+}
+
+.section {
+	text-align: center;
+}
+
+#title {
+	font-size: 100px;
+	font-family:"OCR A","Rockwell","Courier New",'Consoals';
+	color: rgb(23, 107, 25);
+}
+
+button {
+	background-color: rgba(23, 107, 24, 0.226);
+	border: 2px solid;
+	border-color: rgb(46, 139, 86);
+	margin: 0px 30px;
+	color: seagreen;
+}
